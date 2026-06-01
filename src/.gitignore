@@ -1,0 +1,9 @@
+*.class
+contacts.dat
+bin/
+out/
+target/
+.vscode/
+.idea/
+*.log
+.DS_Store
